@@ -1,0 +1,5 @@
+name: Basic
+description: It is a very basic form page
+type: module
+package: Custom 
+core: 8.x
